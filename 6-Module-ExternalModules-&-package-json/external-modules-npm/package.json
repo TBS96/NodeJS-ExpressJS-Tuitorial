@@ -1,0 +1,22 @@
+{
+  "name": "external-modules-npm",
+  "version": "1.0.0",
+  "description": "this is npm learning & testing project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "node.js",
+    "nodemon",
+    "external-modules"
+  ],
+  "author": "Prantik Ghosh",
+  "license": "ISC",
+  "dependencies": {
+    "get-currency-by-country": "^1.1.1",
+    "movies-names": "^1.1.1",
+    "random-fruits-name": "^1.10.1"
+  }
+}

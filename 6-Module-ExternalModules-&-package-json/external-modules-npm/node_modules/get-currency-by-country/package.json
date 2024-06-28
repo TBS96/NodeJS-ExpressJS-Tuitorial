@@ -1,0 +1,25 @@
+{
+  "name": "get-currency-by-country",
+  "version": "1.1.1",
+  "description": "Country to Currency is a npm package that provides a simple and efficient way to map country names to their respective currency codes. It includes a comprehensive list of countries, each mapped to its currency code and country abbreviation. This package is ideal for applications dealing with international transactions, travel planning, or any context where currency information is needed based on the country.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakibul0310/country-to-currency.git"
+  },
+  "author": "MD RAKIBUL HASAN (@rakibul0310)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakibul0310/country-to-currency/issues"
+  },
+  "homepage": "https://github.com/rakibul0310/country-to-currency#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "get-currency-by-country": "^1.0.0"
+  }
+}
